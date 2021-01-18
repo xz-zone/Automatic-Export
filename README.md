@@ -7,11 +7,11 @@
 
 ## 0x02 准备工作
 
-    `python3 -m pip install docxtpl`
+    python3 -m pip install docxtpl
     
 ## 0x03 构建代码
 
-	`
+	
 	from docxtpl import DocxTemplate,InlineImage
 	from docx.shared import Mm
 	import json
@@ -62,7 +62,7 @@
 	        return self.name+".docx"
 	if __name__ == '__main__':
 	    XmlTransformationDoc("./tmp/demo.json","demo").start()
-	`
+	
 ## 0x04 运行成果
 
 ![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/2.png)
