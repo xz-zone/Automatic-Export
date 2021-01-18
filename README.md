@@ -67,4 +67,4 @@
 
 ![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/2.png)
 
-![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/3.jpg)
+![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/1.jpg)
