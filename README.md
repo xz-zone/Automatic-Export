@@ -5,7 +5,7 @@
 ##0x02 准备工作
     python3 -m pip install docxtpl
 ##0x03 构建代码
-	#!/usr/bin/python3
+	`#!/usr/bin/python3
 	from docxtpl import DocxTemplate,InlineImage
 	from docx.shared import Mm
 	import json
@@ -56,6 +56,9 @@
 	        return self.name+".docx"
 	if __name__ == '__main__':
 	    XmlTransformationDoc("./tmp/demo.json","demo").start()
+	`
 ##0x04 运行成果
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
+![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/blob/master/img/2.png?raw=true)
+
+![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/blob/master/img/1.jpg)
