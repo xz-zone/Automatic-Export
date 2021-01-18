@@ -2,13 +2,14 @@
 ##0x01 序言
 各位小伙伴，是不是到了年终的时候要汇总客户一年的漏洞报告每个每个文档要打开进行统计，接下来由我们带领大家脱离写文档方法。
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/3.jpg)
 
 ##0x02 准备工作
+
     ```python3 -m pip install docxtpl```
+    
 ##0x03 构建代码
 	```
-	#!/usr/bin/python3
 	from docxtpl import DocxTemplate,InlineImage
 	from docx.shared import Mm
 	import json
