@@ -1,5 +1,6 @@
 # 自动化生成漏洞报告（脱离年终编写更多报告）
-##0x01 序言
+## 0x01 序言
+
 各位小伙伴，是不是到了年终的时候要汇总客户一年的漏洞报告每个每个文档要打开进行统计，接下来由我们带领大家脱离写文档方法。
 
 ![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/3.jpg)
@@ -64,6 +65,6 @@
 	```
 ##0x04 运行成果
 
-![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/blob/master/img/2.png?raw=true)
+![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/2.png)
 
-![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/blob/master/img/1.jpg)
+![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/master/img/3.jpg)
