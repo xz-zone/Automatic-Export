@@ -1,11 +1,14 @@
 # 自动化生成漏洞报告（脱离年终编写更多报告）
 ##0x01 序言
 各位小伙伴，是不是到了年终的时候要汇总客户一年的漏洞报告每个每个文档要打开进行统计，接下来由我们带领大家脱离写文档方法。
+
 ![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
 ##0x02 准备工作
-    python3 -m pip install docxtpl
+    ```python3 -m pip install docxtpl```
 ##0x03 构建代码
-	`#!/usr/bin/python3
+	```
+	#!/usr/bin/python3
 	from docxtpl import DocxTemplate,InlineImage
 	from docx.shared import Mm
 	import json
@@ -56,7 +59,7 @@
 	        return self.name+".docx"
 	if __name__ == '__main__':
 	    XmlTransformationDoc("./tmp/demo.json","demo").start()
-	`
+	```
 ##0x04 运行成果
 
 ![Image text](https://raw.githubusercontent.com/xz-zone/Automatic-Export/blob/master/img/2.png?raw=true)
